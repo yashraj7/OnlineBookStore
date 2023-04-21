@@ -1,0 +1,49 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+	<display-name>Archetype Created Web Application</display-name>
+<!-- 	<servlet>
+		<servlet-name>LoginServlet</servlet-name>
+		<display-name>LoginServlet</display-name>
+		<description></description>
+		<servlet-class>in.user.servlet.LoginServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>BooksAdd</servlet-name>
+		<display-name>BooksAdd</display-name>
+		<description></description>
+		<servlet-class>in.admin.servlet.BooksAdd</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>EditBooksServlet</servlet-name>
+		<display-name>EditBooksServlet</display-name>
+		<description></description>
+		<servlet-class>in.admin.servlet.EditBooksServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>LogoutServlet</servlet-name>
+		<display-name>LogoutServlet</display-name>
+		<description></description>
+		<servlet-class>in.user.servlet.LogoutServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>LoginServlet</servlet-name>
+		<url-pattern>/LoginServlet</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>BooksAdd</servlet-name>
+		<url-pattern>/BooksAdd</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>EditBooksServlet</servlet-name>
+		<url-pattern>/editBooks</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>LogoutServlet</servlet-name>
+		<url-pattern>/LogoutServlet</url-pattern>
+	</servlet-mapping> -->
+
+</web-app>
